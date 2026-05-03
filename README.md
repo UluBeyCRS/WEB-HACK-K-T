@@ -1,4 +1,5 @@
 git clone https://github.com/UluBeyCRS/WEB-HACK-K-T.git
+
 cd WEB-HACK-K-T
 
 # Kali Linux 
