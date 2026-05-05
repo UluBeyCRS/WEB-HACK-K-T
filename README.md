@@ -22,8 +22,6 @@ sudo apt install -y \
 
 pip3 install requests
 
-nano web_hack_kit.py
-
 chmod +x web_hack_kit.py
 
 sudo python3 web_hack_kit.py
@@ -46,7 +44,5 @@ pip install requests
 
 git clone https://github.com/sqlmapproject/sqlmap.git
 echo "alias sqlmap='python ~/sqlmap/sqlmap.py'" >> ~/.bashrc
-
-nano web_hack_kit.py
 
 python web_hack_kit.py
